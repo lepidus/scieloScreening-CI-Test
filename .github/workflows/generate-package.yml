@@ -10,5 +10,3 @@ jobs:
     uses: lepidus/github-workflows/.github/workflows/generate-package.yml@main
     with:
       plugin_name: scieloScreening
-    permissions:
-      contents: write
